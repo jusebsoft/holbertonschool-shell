@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la /boot/my_first_directory/basics
+ls -la . .. /boot/my_first_directory/tmp/emacs
