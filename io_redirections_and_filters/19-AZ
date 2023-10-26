@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -A -c -Z -e /tmp
+tr "-A" "-Z" tr "-c" "-e"
