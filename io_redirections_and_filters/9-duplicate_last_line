@@ -1,2 +1,2 @@
 #!/bin/bash
-cp iacta duplicate file
+tail -n1 < iacta >> iacta
