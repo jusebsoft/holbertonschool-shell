@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -not-name '.' -count | wc-1 
+find . -type d -not -name '.' -count | wc-1 
