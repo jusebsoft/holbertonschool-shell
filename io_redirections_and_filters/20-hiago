@@ -1,2 +1,2 @@
 #!/bin/bash
-rev 
+trd -d "Cc" 
