@@ -1,2 +1,2 @@
 #!/bin/bash
-grep cut "c" | "C"
+grep cut > "c" | "C"
